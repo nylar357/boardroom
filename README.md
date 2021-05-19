@@ -43,3 +43,23 @@ CEO - Fund oriented tasks specifically dealing with wallets & apps at setup and 
 CFO - Few tasks but the CFO is extremely important, theyll be expected to make the financial decisions (buy,sell,trade,stake, ect.) in times of unexpected market gains and losses.  The CFO keeps the fund from going into the red during the downtime between meetings.  CFO & CEO should be in regular contact making sure the fund isnt taking losses that can be avoided (in over a year with close to 1000$ invested I have never lost more than 5$ in any trade or market movement, almost ALL losses can be avoided or mitigated easily)
 
 ![preview](IMGS/blockchain_iot2.png)
+
+
+What Are Cryptocurrencies and How Do They Work?
+
+Cryptocurrency is based on blockchain technology. That's a chain of information registration and distribution that is not controlled by any single institution. Instead, it works as a record of digital transactions that are independent of central banks.
+
+There are all kinds of technical details related to blockchain technology that may be worth investigating if it doesn't drive you into a technological coma. But essentially, it eliminates the middleman — such as a bank — and allows buyers and sellers to transact business directly between each other. That should also serve to lower or even eliminate transaction fees, which is a major part of the attraction of cryptocurrency.
+
+The most popular cryptocurrency is Bitcoin, whose price is regularly tracked in the major financial media. But there are actually hundreds of cryptocurrencies, including many that have already come and gone.
+
+What are the Main Attractions of Cryptocurrency
+
+What you need to invest in bitcoinAt the moment, it seems as if the two primary attractions of cryptocurrency are:
+
+    You can own and use it anonymously, and
+    It's subject to price explosions that can make it look and feel like an investment.
+
+And for those who bought cryptocurrency prior to the price explosion in 2017 or the most recent price increase in 2021, it's probably been the best investment in a lot of portfolios.
+
+So what should you do if you want to get in on the cryptocurrency action?
