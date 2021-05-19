@@ -1,5 +1,7 @@
 Family Fund - Voting 
 
+![preview](IMGS/familyinvest.png)
+
 i. Voting Value
 ii.Personelle
 iii. Procedure
@@ -21,4 +23,5 @@ per child.  A patriach/matriach of their personal families is also awarde 1 poin
 they are afforded a single TEMPORARY vv.  TEMP VV can be awarded based on monetary amounts, say 1/2 vv per 50$ over the decided upon amount 
 this can be discussed and decided upon by the board at any time.
 
-![preview](IMGS/coins1.png)
+![preview](IMGS/rated.png)
+
